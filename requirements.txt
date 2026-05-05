@@ -1,0 +1,12 @@
+python-telegram-bot==21.10
+requests
+pytz
+apscheduler
+python-dotenv
+aiohttp
+httpx
+gunicorn
+flask
+instaloader
+psutil
+pytelegrambotapi
