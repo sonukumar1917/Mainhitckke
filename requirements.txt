@@ -11,3 +11,4 @@ instaloader
 psutil
 pytelegrambotapi
 flask_cors
+flask_limiter
