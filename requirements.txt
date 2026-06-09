@@ -10,3 +10,4 @@ flask
 instaloader
 psutil
 pytelegrambotapi
+flask_cors
