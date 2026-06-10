@@ -46,7 +46,7 @@ def get_uptime():
     minutes, seconds = divmod(remainder, 60)
     return f"{days}d {hours}h {minutes}m {seconds}s"
 
-TOKEN = '8245976272:AAHFRTKOVO3dU6_XH4auAHVQfxpv4VkqipQ'
+TOKEN = '8245976272:AAEMZrx9OoQ46aIL-qpb4w3om4plikWIwCI'
 OWNER_ID = 8406324025
 ADMIN_ID = 8406324025
 YOUR_USERNAME = '@Danger_devil1917'
