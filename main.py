@@ -47,8 +47,8 @@ def get_uptime():
     return f"{days}d {hours}h {minutes}m {seconds}s"
 
 TOKEN = '8245976272:AAHFRTKOVO3dU6_XH4auAHVQfxpv4VkqipQ'
-OWNER_ID = 7655738256
-ADMIN_ID = 7655738256
+OWNER_ID = 8406324025
+ADMIN_ID = 8406324025
 YOUR_USERNAME = '@Danger_devil1917'
 UPDATE_CHANNEL = 'hhttps://t.me/danger_devil1917x'
 
